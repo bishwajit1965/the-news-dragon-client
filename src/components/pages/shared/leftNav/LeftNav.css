@@ -1,0 +1,7 @@
+a.active {
+  background-color: #ebe6e6;
+  border-bottom: 3px solid #bdbaba;
+  border-radius: 0.3rem;
+  padding: 0.3rem 1rem;
+  color: #e74210;
+}
